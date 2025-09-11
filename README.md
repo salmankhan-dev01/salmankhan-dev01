@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Mo Salman Khan  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=30&lines=Android+Developer;Web+Developer;Final+Year+B.Tech+CSE+Student;Tech+Enthusiast)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 I'm a **Final Year B.Tech CSE Student** at **BIET, Lucknow**.  
 I’m passionate about **Android Development** and **Web Development**, and I love building scalable, user-friendly applications.  
@@ -56,7 +57,7 @@ OOPs · Data Structures & Algorithms · Design & Analysis of Algorithms · Opera
 
 ---
 
-⭐️ From [salmankhan-dev01](https://github.com/salmankhan-dev01)
+⭐️ From [Mo Salman Khan](https://github.com/salmankhan-dev01)
 
 
 ## ✨ Key Achievements & Contributions
@@ -84,4 +85,3 @@ OOPs · Data Structures & Algorithms · Design & Analysis of Algorithms · Opera
   <img src="https://github-readme-stats.vercel.app/api?username=salmankhan-dev01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmankhan-dev01&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
-
