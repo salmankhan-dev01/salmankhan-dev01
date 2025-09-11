@@ -58,3 +58,31 @@ OOPs · Data Structures & Algorithms · Design & Analysis of Algorithms · Opera
 ---
 
 ⭐️ From [salmankhan-dev01](https://github.com/salmankhan-dev01)
+
+
+## ✨ Key Achievements & Contributions
+<details>
+  <summary>🏅 Click to view my key achievements...</summary>
+
+- 🏆 Completed **50 Days Streak** on LeetCode (2024 & 2025)  
+- 🥇 Secured **AIR 81** in SlayGround 2.0  
+- 📱 Built **Android & Web Projects** with real-time features  
+- 💻 Contributed to **open-source projects**  
+
+</details>
+
+---
+
+## 📊 My GitHub Stats & Activity  
+
+*My contributions are a living testament to my daily dedication to the craft of software engineering.*
+
+<!-- Contribution Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmankhan-dev01&theme=react-dark&hide_border=true)
+
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmankhan-dev01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmankhan-dev01&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
+
