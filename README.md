@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Mo Salman Khan  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=30&lines=Android+Developer;Web+Developer;Final+Year+B.Tech+CSE+Student;Tech+Enthusiast)](https://git.io/typing-svg)
-
 ## 🚀 About Me
 I'm a **Final Year B.Tech CSE Student** at **BIET, Lucknow**.  
 I’m passionate about **Android Development** and **Web Development**, and I love building scalable, user-friendly applications.  
