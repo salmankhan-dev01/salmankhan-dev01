@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Mo Salman Khan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&lines=Android+Developer;Python+Developer;Django+Developer;Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&lines=Web+Developer;Android+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
