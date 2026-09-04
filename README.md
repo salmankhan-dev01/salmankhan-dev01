@@ -6,11 +6,11 @@
 
 # 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer**, **Python Developer**, and **Android Developer** who enjoys building scalable, user-friendly applications and solving real-world problems through technology.
+I'm a passionate **Full Stack Web Developer** and **Python Developer** who enjoys building scalable, user-friendly applications and solving real-world problems through technology.
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 🌱 Currently learning **Advanced Django, Jetpack Compose, Firebase, MERN Stack & REST APIs**
-- 💬 Ask me about **Python, Django, Java, Kotlin, Android Studio, React, Node.js**
+- 🌱 Currently learning **FastAPI, Next.js, SQL & REST APIs**
+- 💬 Ask me about **Python, Django, Java, React**
 - ⚡ Fun fact: **I debug faster after chai ☕**
 
 ---
