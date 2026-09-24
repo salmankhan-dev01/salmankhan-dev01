@@ -1,154 +1,123 @@
-
 # 👋 Hi there, I'm Mo Salman Khan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Web+Developer;GATE+Qualified;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=30\&duration=3000\&pause=1000\&color=1E90FF\&center=true\&vCenter=true\&width=700\&lines=Python+Backend+Developer;Django+%7C+FastAPI+Developer;REST+API+Developer;GATE+Qualified)](https://git.io/typing-svg)
+
 ---
 
 # 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** and **Python Developer** who enjoys building scalable, user-friendly applications and solving real-world problems through technology.
+I'm a **Python Backend Developer** focused on building scalable backend applications, REST APIs, and database-driven systems.
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 🌱 Currently learning **FastAPI, Next.js, SQL & REST APIs**
-- 💬 Ask me about **Python, Django, Java, React**
-- ⚡ Fun fact: **I debug faster after chai ☕**
+* 🐍 Working with **Python, Django, DRF & FastAPI**
+* 🗄️ Building applications with **PostgreSQL, SQLAlchemy & Redis**
+* 🔐 Experienced with **REST APIs, JWT & RBAC**
+* 🏗️ Interested in **Clean Architecture & scalable backend design**
+* 🎓 B.Tech in Computer Science & Engineering
+* 🏆 **GATE CS/IT 2026 Qualified**
+* 💯 **300+ DSA Problems Solved**
+* ⚡ Fun fact: **I debug faster after chai ☕**
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 🐍 Backend Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
 
----
+### 🗄️ Database & Storage
 
-## 🌐 Web Technologies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 🔌 API & Authentication
 
----
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-## 🐍 Python Ecosystem
+### 🏗️ Architecture & Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+`Clean Architecture` `Repository Pattern` `Unit of Work`
 
----
+`Dependency Injection` `RBAC` `Database Transactions`
 
-## 📱 Android Development
+`Async Programming` `Cursor Pagination` `Optimistic Concurrency`
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🌐 Frontend
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-## 🗄️ Databases
+### ⚙️ Tools & DevOps
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## ☁️ Cloud & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
 # 💡 Core Concepts
 
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Design & Analysis of Algorithms
-- Operating Systems
-- Database Management Systems
-- Computer Networks
-- REST APIs
-- MVC / MVT Architecture
-- Clean Architecture
-- MVVM
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* RESTful API Design
+* Authentication & Authorization
+* JWT & Role-Based Access Control
+* SQL & Database Design
+* ORM & Database Transactions
+* Async Programming
+* Clean Architecture
+* Repository & Unit of Work Patterns
+* API Validation & Error Handling
+* Pagination & Concurrency
 
 ---
 
 # 🏆 Featured Projects
 
-## 📱 BackHome (Android)
+## ❤️ DonateHub
 
-A Missing & Found Persons application built using:
+**Django · PostgreSQL · Bootstrap**
 
-- Kotlin
-- Jetpack Compose
-- Firebase Firestore
-- Room Database
-- MVVM
-- Clean Architecture
+A role-based charity donation platform with donor/NGO dashboards, campaign management, donations, authentication and admin approval workflows.
 
 ### Features
 
-- Missing & Found Person Management
-- Firebase Authentication
-- Offline Room Database
-- Image Upload
-- Advanced Search
-- Material Design UI
+* ✅ User Authentication
+* ✅ Donor & NGO Dashboards
+* ✅ Campaign Management
+* ✅ Donation Management
+* ✅ Role-Based Authorization
+* ✅ Admin Approval Workflow
+* ✅ Image Upload
 
 ---
 
-## ❤️ DonateHub (Python Django)
+## 💼 Job Portal
 
-A Role-Based Charity Donation Platform built using:
+**Django · Django REST Framework · JWT · PostgreSQL**
 
-- Python
-- Django
-- Bootstrap
-- SQLite
+A job portal with candidate and recruiter roles, job posting, applications, resume management and role-based access control.
 
 ### Features
 
-- ✅ User Authentication
-- ✅ Donor Dashboard
-- ✅ NGO Dashboard
-- ✅ Campaign Management
-- ✅ Donation Management
-- ✅ Admin Approval System
-- ✅ Role-Based Authorization
-- ✅ Custom 404 Page
-- ✅ Image Upload
-- ✅ Campaign Approval Workflow
-
----
-
-## 📈 Crypto Price Tracker
-
-A React application that displays live cryptocurrency prices using APIs.
-
-### Features
-
-- Live Price Updates
-- Search Coins
-- Responsive UI
-- API Integration
+* ✅ Candidate & Recruiter Roles
+* ✅ JWT Authentication
+* ✅ Job Posting
+* ✅ Job Applications
+* ✅ Resume Management
+* ✅ Role-Based Access Control
 
 ---
 
@@ -157,11 +126,11 @@ A React application that displays live cryptocurrency prices using APIs.
 <details>
 <summary>Click to view achievements</summary>
 
-- 🏆 GATE Qualified (Computer Science & Information Technology) 2026
-- 🥇 AIR 81 – Coding Ninjas SlayGround 2.0
-- 💯 Solved 300+ DSA Problems
-- 🔥 100 Days LeetCode Badge
-- 🚀 Developed Android & Full Stack Projects
+* 🏆 **GATE CS/IT 2026 Qualified**
+* 🥇 **AIR 81 – Coding Ninjas SlayGround 2.0**
+* 💯 **300+ DSA Problems Solved**
+* 🔥 **100 Days LeetCode Badge**
+* 🚀 **Built Django & FastAPI Backend Applications**
 
 </details>
 
@@ -187,23 +156,23 @@ A React application that displays live cryptocurrency prices using APIs.
 
 # 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmankhan-dev01&theme=react-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmankhan-dev01\&theme=react-dark\&hide_border=true)
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-salman-khan-1899982a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mo-salman-khan-1899982a1)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmankhan-dev01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/salmankhan-dev01)
 
-📧 **Email:** **salmankhan.dev01@gmail.com**
+📧 **Email:** **[salmankhan.dev01@gmail.com](mailto:salmankhan.dev01@gmail.com)**
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=salmankhan-dev01&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=salmankhan-dev01\&style=for-the-badge\&color=blue)
 
 ---
 
